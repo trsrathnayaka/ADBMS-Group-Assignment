@@ -11,6 +11,7 @@ inventory information.
 # ERR Diagram 🔭
 ![image](https://github.com/trsrathnayaka/ADBMS-Group-Assignment/assets/97075043/c590725f-31a5-41c1-8020-5dfedfdfedef)
 
+# User Interface 📫
 Admin Ui Interfaces
 <br>
 ![1](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/ca5156db-fee1-4f4b-85a1-d5060a7574b3)
