@@ -1,6 +1,16 @@
 # Ananda-Food-City-POS-System
 Ananda Food City POS System Using PHP and MYSQL &amp; R Studio
 <br><br>
+# Introduction 🌱
+Ananda Food City has an extensive history spanning several decades, providing an extensive
+variety of food items and other consumer goods to its customers. A more complicated and robust
+POS system has become required as the company has grown. The current POS systems are
+functional, but they have issues with data management, scalability, and real-time sales and
+inventory information. 
+
+# Activity Diagram 🔭
+![image](https://github.com/trsrathnayaka/ADBMS-Group-Assignment/assets/97075043/c590725f-31a5-41c1-8020-5dfedfdfedef)
+
 Admin Ui Interfaces
 <br>
 ![1](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/ca5156db-fee1-4f4b-85a1-d5060a7574b3)
