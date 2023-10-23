@@ -67,13 +67,13 @@ Cashier Ui Interfaces
 
 👨‍🎓**Ishanki Nipunika** ([Ishanki88](https://github.com/Ishanki88))
 
-👨‍🎓**Sanjula thilan* ([demonthila](https://github.com/demonthila))
+👨‍🎓**Sanjula thilan** ([demonthila](https://github.com/demonthila))
 
-👨‍🎓**Yashod Mendis* ([Yashod-Mendis](https://github.com/Yashod-Mendis))
+👨‍🎓**Yashod Mendis** ([Yashod-Mendis](https://github.com/Yashod-Mendis))
 
-👨‍🎓**Pasindu Maleesha* ([PASINDUMALEESHA](https://github.com/PASINDUMALEESHA))
+👨‍🎓**Pasindu Maleesha** ([PASINDUMALEESHA](https://github.com/PASINDUMALEESHA))
 
-👨‍🎓**Tirosh Menuka* ([menuka1](https://github.com/menuka1))
+👨‍🎓**Tirosh Menuka** ([menuka1](https://github.com/menuka1))
 
 # Conclution 💻
 Effective operations and data management are essential for success in the dynamic
