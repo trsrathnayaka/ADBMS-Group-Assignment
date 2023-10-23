@@ -8,10 +8,10 @@ POS system has become required as the company has grown. The current POS systems
 functional, but they have issues with data management, scalability, and real-time sales and
 inventory information. 
 
-# Activity Diagram 🔭
+# ERR Diagram 🔭
 ![image](https://github.com/trsrathnayaka/ADBMS-Group-Assignment/assets/97075043/c590725f-31a5-41c1-8020-5dfedfdfedef)
 
-Admin Ui Interfaces
+# Admin Ui Interfaces
 <br>
 ![1](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/ca5156db-fee1-4f4b-85a1-d5060a7574b3)
 <br>
@@ -50,5 +50,38 @@ Admin Ui Interfaces
 Cashier Ui Interfaces
 ![Cashier Dashboard](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/c1e344bf-ee90-4723-85f3-c8e526727406)
 <br><br>
-Customer Ui Interfaces
+# Customer Ui Interfaces
 ![Customer Dashboard](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/d5d40885-6caa-4e01-84ce-99379a064026)
+
+# Team Members 👯
+👨‍🎓**Lahiru Senavirathna** ([SE-LAPS](https://github.com/SE-LAPS))
+ 
+👨‍🎓**Thevindu Ransara** ([trsrathnayaka](https://github.com/trsrathnayaka))
+  
+👨‍🎓**Wasana Muthumali** ([muthumaliperera](https://github.com/muthumaliperera))
+  
+👨‍🎓**Prasitha Samaarachchi** ([Prasitha7](https://github.com/Prasitha7))
+
+👨‍🎓**Oshadi Savidya** ([OshadiSavidya](https://github.com/OshadiSavidya))
+
+👨‍🎓**Ishanki Nipunika** ([Ishanki88](https://github.com/Ishanki88))
+
+👨‍🎓**Sanjula thilan* ([demonthila](https://github.com/demonthila))
+
+👨‍🎓**Yashod Mendis* ([Yashod-Mendis](https://github.com/Yashod-Mendis))
+
+👨‍🎓**Pasindu Maleesha* ([PASINDUMALEESHA](https://github.com/PASINDUMALEESHA))
+
+👨‍🎓**Tirosh Menuka* ([menuka1](https://github.com/menuka1))
+
+# Conclution 💻
+Effective operations and data management are essential for success in the dynamic
+environment of modern enterprises. Ananda Food City, an established corporation
+in the food and retail industries, is aware of the need for effective point-of-sale
+(POS) systems that streamline its company's procedures. To be able meet this
+necessity, we decided to create a state-of-the-art POS system that incorporates
+cutting-edge database ideas in order enhance Ananda Food City's efficiency,
+reliability, and overall performance.
+
+## Thank you 😃
+Thank you for your interest in the Ananda Food City Web App.We hope you find it valuable in enhancing your university experience. If you have any quections, feedback, or suggestions, please dont't hesitate to contact us.
