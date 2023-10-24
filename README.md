@@ -1,6 +1,6 @@
 # Ananda-Food-City-POS-System
 Ananda Food City POS System Using PHP and MYSQL &amp; R Studio
-<br><br>
+
 # Introduction 🌱
 Ananda Food City has an extensive history spanning several decades, providing an extensive
 variety of food items and other consumer goods to its customers. A more complicated and robust
